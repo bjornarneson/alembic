@@ -9,8 +9,7 @@ the performance of sacred choral music from the 15th, 16th, and 20th centuries.
 
 ## Dr. Jonathan Campbell, Artistic Director
 
-{% include figure.html image="/assets/img/campbell-small.jpg" alt="Jonathan Campbell" position="right"%}
-Jonathan Campbell received his Bachelor of Arts from Luther College in Decorah, Iowa in 1998. 
+{% include figure.html image="/assets/img/campbell-small.jpg" alt="Jonathan Campbell" position="right"%} Jonathan Campbell received his Bachelor of Arts from Luther College in Decorah, Iowa in 1998. 
 At Luther, Jon sang in the Nordic Choir for three years and studied conducting with 
 Weston Noble. In 2002, Jon completed a Master of Sacred Music degree from Luther Seminary, 
 St. Paul, Minnesota, where he studied choral conducting with Anton Armstrong and church 

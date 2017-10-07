@@ -88,7 +88,7 @@ email: "mail@mnrenchoir.org"
 # 8. Site navigation
 navigation_header:
   Home: /
-#  Performance Calendar: /calendar/
+  Performance Calendar: /calendar/
 #  Audition: /audition/
 #  Listen: /media/
   About Us: /about/

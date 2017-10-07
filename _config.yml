@@ -87,18 +87,18 @@ email: "mail@mnrenchoir.org"
 # 8. Site navigation
 navigation_header:
   Home: /
-  Performance Calendar: /calendar/
+#  Performance Calendar: /calendar/
 #  Audition: /audition/
 #  Listen: /media/
   About Us: /about/
   Contact: /contact/
 #  Blog: /blog/
 #  Categories: /categories/
-  Search: /search/
+#  Search: /search/
 
 navigation_footer:
 #  Created by David Darnes: https://darn.es
-  Contact: /contact/
+#  Contact: /contact/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #  Twitter: https://twitter.com/DavidDarnes

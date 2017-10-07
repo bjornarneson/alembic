@@ -1,6 +1,8 @@
 ---
 title: Contact Us
 permalink: /contact/
+layout: page
+aside: true
 ---
 
 We would love to get in touch with you! Send us an email at 

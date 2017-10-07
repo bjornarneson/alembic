@@ -6,12 +6,14 @@ feature_text: |
 #feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: "Founded in 2015, the Minnesota Renaissance Choir is a chamber ensemble specializing in the performance of sacred choral music from the 15th, 16th, and 20th centuries."
 permalink: /about/
+layout: page
 ---
 
-## Dr. Jon Campbell, Director
+## Dr. Jonathan Campbell, Artistic Director
 
-Jonathan Campbell received his Bachelor of Arts from Luther College in Decorah, Iowa in 
-1998. At Luther, Jon sang in the Nordic Choir for three years and studied conducting with 
+{% include figure.html image="/assets/img/campbell-683x1024.jpg" alt="Jonathan Campbell" %}
+Jonathan Campbell received his Bachelor of Arts from Luther College in Decorah, Iowa in 1998. 
+At Luther, Jon sang in the Nordic Choir for three years and studied conducting with 
 Weston Noble. In 2002, Jon completed a Master of Sacred Music degree from Luther Seminary, 
 St. Paul, Minnesota, where he studied choral conducting with Anton Armstrong and church 
 music with Paul Westermeyer. Jon earned his Doctor of Musical Arts in choral conducting 

@@ -4,11 +4,11 @@ feature_text: |
    The Minnesota Renaissance Choir is a chamber ensemble specializing in the performance of 
    sacred choral music from the 15th, 16th, and 20th centuries.
 
-#feature_image: "https://unsplash.it/1300/400?image=971"
+feature_image: "/assets/img/ensemble-photo.jpg"
 #excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-### Next Performances
+### Next Performance
 
 **Byzantine Choral Festival**  
 St. Constantine Ukrainian Catholic Church  

@@ -88,7 +88,7 @@ email: "mail@mnrenchoir.org"
 
 # 8. Site navigation
 navigation_header:
-  Home: /
+#  Home: /
   Performance Calendar: /calendar/
 #  Audition: /audition/
 #  Listen: /media/
@@ -107,8 +107,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
 #  LinkedIn: https://www.linkedin.com/in/daviddarnes
 #  Google+: https://plus.google.com/+DavidDarnes
 #  GitHub: https://github.com/daviddarnes
-  link: http://www.mnrenchoir.org/
-  RSS: /feed.xml
+#  link: http://www.mnrenchoir.org/
+#  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#1DA1F2"

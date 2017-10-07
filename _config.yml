@@ -76,7 +76,8 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Minnesota Renaissance Choir" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-wordmark: "MRC"
+#wordmark: "MRC"
+wordmark: "Minnesota Renaissance Choir"
 description: "The Minnesota Renaissance Choir is a chamber ensemble specializing in the performance of sacred choral music from the 15th, 16th, and 20th centuries." # Site description and default description, also used in jekyll-seo-tag
 url: "http://www.mnrenchoir.org/" # Site url, also used in jekyll-seo-tag
 baseurl: ""

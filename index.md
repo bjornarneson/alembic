@@ -1,5 +1,6 @@
 ---
 title: ""
+layout: home
 feature_text: |
    The Minnesota Renaissance Choir is a chamber ensemble specializing in the performance of 
    sacred choral music from the 15th, 16th, and 20th centuries.

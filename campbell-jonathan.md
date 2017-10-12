@@ -1,10 +1,8 @@
 ---
-title: About Jonathan Campbell
+title: Dr. Jonathan Campbell, Artistic Director
 permalink: /about/jonathan-campbell/
 layout: page
 ---
-
-## Dr. Jonathan Campbell, Artistic Director
 
 {% include figure.html image="/assets/img/campbell-small.jpg" alt="Jonathan Campbell" position="right"%} Jonathan Campbell received his Bachelor of Arts from Luther College in Decorah, Iowa in 1998. 
 At Luther, Jon sang in the Nordic Choir for three years and studied conducting with 

@@ -84,7 +84,7 @@ title: "Minnesota Renaissance Choir" # Site name or title, also used in jekyll-s
 #wordmark: "MRC"
 wordmark: "Minnesota Renaissance Choir"
 description: "The Minnesota Renaissance Choir is a chamber ensemble specializing in the performance of sacred choral music from the 15th, 16th, and 20th centuries." # Site description and default description, also used in jekyll-seo-tag
-url: "http://www.mnrenchoir.org/" # Site url, also used in jekyll-seo-tag
+url: "http://www.mnrenchoir.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/bjornarneson/mnrenchoir.org"
 email: "byzantinecampbell@gmail.com"

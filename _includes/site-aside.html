@@ -14,6 +14,13 @@
       {% include nav-social.html %}
     </section>
 
+	{% elsif page.layout == "home" %}
+    <section class="section  section--description">
+	  {% include nav-share.html %}
+      {% include nav-social.html %}
+    </section>
+
+	
   {% elsif page.layout == "categories" %}
     <section class="section  section--category-index">
       <h3>Index</h3>

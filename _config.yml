@@ -74,7 +74,7 @@ collections:
 defaults:
   -
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/assets/img/2017-10-8-ensemble-photo.jpg" # Default image for sharing
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right

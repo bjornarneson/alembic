@@ -1,5 +1,5 @@
 ---
-title: "MRC Home"
+title: "Minnesota Renaissance Choir Home"
 layout: home
 feature_text: |
    The Minnesota Renaissance Choir is a chamber ensemble specializing in the performance of 

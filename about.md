@@ -7,7 +7,9 @@ layout: page
 Founded in 2015, the Minnesota Renaissance Choir is a chamber ensemble specializing in 
 the performance of sacred choral music from the 15th, 16th, and 20th centuries.
 
-## [Dr. Jonathan Campbell, Artistic Director](/about/jonathan-campbell/)
+## Artistic Director
+
+[Dr. Jonathan Campbell](/about/jonathan-campbell/) is the founder and artistic director of the Minnesota Renaissance Choir. 
 
 ## Ensemble Members
 
@@ -17,7 +19,7 @@ the performance of sacred choral music from the 15th, 16th, and 20th centuries.
 - Heather Nelson
 - Jenny Ubl
 
-### Altos
+### Alto
 
 - Megan Crosby
 - Damara O’Malley

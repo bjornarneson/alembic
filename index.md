@@ -9,6 +9,8 @@ feature_image: "/assets/img/des_prez_trimmed.jpg"
 aside: true
 ---
 
+### 12 professional singers, 1 glorious sound
+
 {% include figure.html image="/assets/img/2017-10-8-ensemble-photo.jpg" alt="Minnesota Renaissance Choir" %} 
 
 

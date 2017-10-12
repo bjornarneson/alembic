@@ -7,7 +7,7 @@ layout: page
 Founded in 2015, the Minnesota Renaissance Choir is a chamber ensemble specializing in 
 the performance of sacred choral music from the 15th, 16th, and 20th centuries.
 
-## [Dr. Jonathan Campbell, Artistic Director]({{ site.baseurl }}{% link /about/jonathan-campbell/ %})
+## [Dr. Jonathan Campbell, Artistic Director](/about/jonathan-campbell/)
 
 ## Ensemble Members
 

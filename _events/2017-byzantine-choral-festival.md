@@ -3,6 +3,7 @@ title: 2017 Byzantine Choral Festival
 permalink: /calendar/2017/byzantine-choral-festival
 layout: event
 start-date: 2017-10-08
+summary: "The Byzantine Choral Festival features several choirs from the Minneapolis-St. Paul area performing a mix of traditional ethnic and original music."
 ---
 
 Please join us for our next performance!

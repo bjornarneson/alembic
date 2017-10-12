@@ -3,6 +3,7 @@ title: A Renaissance Christmas
 permalink: /calendar/2017/renaissance-christmas
 layout: event
 start-date: 2017-12-03
+summary: "Featuring Christmas choral music from the Renaissance era and thrilling modern works inspired by Renaissance masters."
 ---
 
 Please kick off your Christmas choral season with the Minnesota Renaissance Choir! 

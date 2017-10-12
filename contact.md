@@ -5,7 +5,7 @@ layout: page
 aside: true
 ---
 
-We would love to get in touch with you! Send us an email at 
-<mail@mnrenchoir.org> or use the contact form below. 
+We would love to get in touch with you! Email Jon Campbell, Artistic Director, at 
+<byzantinecampbell@gmail.com> or use the contact form below. 
 
 {% include site-form.html %}

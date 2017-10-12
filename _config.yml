@@ -67,7 +67,7 @@ collections:
   events:
     title: Events
     output: true
-    permalink: /events/:path/
+    permalink: /calendar/:path/
     
 
 # 6. Jekyll collections settings

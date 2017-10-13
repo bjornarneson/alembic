@@ -1,5 +1,5 @@
 ---
-title: 2017 Byzantine Choral Festival
+title: Byzantine Choral Festival
 permalink: /calendar/2017/byzantine-choral-festival
 layout: event
 start-date: 2017-10-08

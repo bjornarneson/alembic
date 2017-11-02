@@ -13,8 +13,9 @@ Warlock's rarely-heard "A Cornish Christmas Carol".
 
 **3:00pm, Sunday, December 3, 2017**  
 St. Mary's Episcopal Church  
-1895 Laurel Ave. St. Paul MN 55104  
-<http://saintmarysepiscopal.org/directions/>
+1895 Laurel Ave. St. Paul MN 55104
+
+Directions: <http://saintmarysepiscopal.org/directions/>
 
 {% include button.html 
   text="Buy tickets online for 3pm performance" 
@@ -24,7 +25,8 @@ St. Mary's Episcopal Church
 **7:00pm, Sunday, December 3, 2017**  
 Lutheran Church of the Redeemer  
 285 Dale St. N Saint Paul, MN 55103  
-<https://www.redeemerstpaul.org/visit_us>
+
+Directions: <https://www.redeemerstpaul.org/visit_us>
 
 {% include button.html 
   text="Buy tickets online for 7pm performance" 

@@ -1,8 +1,8 @@
 ---
 title: Media
 permalink: /media/
-feature_text: ""
-feature_image: "/assets/img/2000px-Sine_waves_different_frequencies.svg.png"
+#feature_text: ""
+#feature_image: "/assets/img/2000px-Sine_waves_different_frequencies.svg.png"
 layout: page
 ---
 

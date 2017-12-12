@@ -24,3 +24,7 @@ layout: page
 * [O Magnum Mysterium - Poulenc](/assets/audio/2017-12/16, o magnum mysterium, poulenc.m4a)
 * [Carol: Goday, My Lord](/assets/audio/2017-12/17, goday my lord.m4a)
 * [A Cornish Christmas Carol - Warlock](/assets/audio/2017-12/18, cornish christmas carol, warlock.m4a)
+
+
+[comment]: # (In the future, look at https://jekyllrb.com/docs/static-files/ for a more programmatic way to do this)
+

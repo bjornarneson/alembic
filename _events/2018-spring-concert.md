@@ -13,4 +13,4 @@ Please join us for our season-ending Spring program, featuring choral gems from 
 Saint Clement's Episcopal Church  
 901 Portland Ave, Saint Paul, Minnesota 55104
 
-Ticket information forthcoming
+[Tickets available now at brownpapertickets.com!](https://www.brownpapertickets.com/event/3386962)
